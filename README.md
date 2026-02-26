@@ -34,7 +34,7 @@ The analysis is based on a single, consolidated CSV file:
 
 | :--- | :--- | :--- |
 
-| 🔗 [Dataset](https://github.com/emmanuel-kariuki/Supply-Chain-Analysis/blob/main/cleaned_supply_chain_data.csv)  | A collection of 100 records detailing product, financial, logistics, quality, and supplier information per transaction. | `Profit`, `Revenue_generated`, `Defect_rates`, `Shipping_costs`, `Product_type`, `Transportation_modes`. |
+| 🔗 [Dataset](cleaned_supply_chain_data.csv)  | A collection of 100 records detailing product, financial, logistics, quality, and supplier information per transaction. | `Profit`, `Revenue_generated`, `Defect_rates`, `Shipping_costs`, `Product_type`, `Transportation_modes`. |
 
 
 
