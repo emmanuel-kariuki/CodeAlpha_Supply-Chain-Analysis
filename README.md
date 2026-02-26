@@ -62,8 +62,6 @@ The analysis was driven by specific business questions, resulting in the followi
 
 
 
-| Focus Area | Key SQL/DAX Techniques Used | Key Finding |
-
 | :--- | :--- | :--- |
 
 | **Logistics** | `GROUP BY`, `AVG()` (Cost vs. Lead Time) | **Air Freight Anomaly:** Most expensive mode was the slowest mode. |
