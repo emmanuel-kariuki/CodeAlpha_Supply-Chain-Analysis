@@ -260,4 +260,4 @@ The dashboard is structured across three pages:
 
 -----
 
-![Dashboard Screenshot 3](https://github.com/emmanuel-kariuki/Supply-Chain-Analysis/blob/main/Dashboard%20Screenshot%203.png?raw=true)
+![Dashboard Screenshot 3](https://github.com/emmanuel-kariuki/CodeAlpha_Supply-Chain-Analysis/blob/main/Dashboard%20Screenshot%203.png)
